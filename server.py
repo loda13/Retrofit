@@ -19,7 +19,8 @@ class Server:
         print('waiting for conntection...')
         conn, addr = Server.sc.accept()
         print(f'connect success addr={addr}')
-        print('connect successfully'+'\n'+'wait for server'+'\n'+'press Enter with noting input to quit')
+        print(
+            'connect successfully' + '\n' + 'wait for server' + '\n' + 'press Enter with noting input to quit')
         while True:
             msg = conn.recv(1024)
             print('from client:', msg.decode())
@@ -31,7 +32,6 @@ class Server:
                 print('now quit')
                 self.sc.close()
                 break
-
 
 
 if __name__ == '__main__':

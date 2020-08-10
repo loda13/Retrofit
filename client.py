@@ -23,7 +23,8 @@ class Client:
             sys.exit(-1)
         else:
             self.sc
-        print('connect successfully'+'\n'+'wait for server'+'\n'+'press Enter with noting input to quit')
+        print(
+            'connect successfully' + '\n' + 'wait for server' + '\n' + 'press Enter with noting input to quit')
         self.sc.send(b'hello server.')
 
     def message(self):
@@ -38,6 +39,7 @@ class Client:
                 print('now quit')
                 self.sc.close()
                 break
+
 
 if __name__ == '__main__':
     run = Client()
