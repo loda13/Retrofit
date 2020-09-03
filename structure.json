@@ -1,6 +1,6 @@
 {
     "HTML 系列教程": {
-        "course": [
+        "课程表": [
             "HTML",
             "XHTML",
             "HTML 5",
@@ -8,7 +8,7 @@
             "CSS3",
             "TCP/IP"
         ],
-        "tool": {
+        "工具箱": {
             "参考手册": [
                 "HTML/HTML5 标签",
                 "CSS 1,2,3",
@@ -33,13 +33,12 @@
                 "验证 XHTML"
             ]
         },
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "浏览器脚本": {
-        "course": [
+        "课程表": [
             "JavaScript",
             "HTML DOM",
             "jQuery",
@@ -49,7 +48,7 @@
             "E4X",
             "WMLScript"
         ],
-        "tool": {
+        "工具箱": {
             "参考手册:": [
                 "JavaScript",
                 "jQuery",
@@ -71,20 +70,19 @@
                 "jQuery 测验"
             ]
         },
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "服务器脚本": {
-        "course": [
+        "课程表": [
             "SQL",
             "ASP",
             "ADO",
             "PHP",
             "VBScript"
         ],
-        "tool": {
+        "工具箱": {
             "参考手册": [
                 "ASP",
                 "ADO",
@@ -99,25 +97,23 @@
                 "ASP 测验"
             ]
         },
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "编程教程": {
-        "course": [
+        "课程表": [
             "Python",
             "Java",
             "C++",
             "机器学习"
         ],
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "XML 系列教程": {
-        "course": [
+        "课程表": [
             "XML",
             "XSL",
             "XSLT",
@@ -132,7 +128,7 @@
             "XForms",
             "WAP"
         ],
-        "tool": {
+        "工具箱": {
             "参考手册:": [
                 "XSLT 1.0",
                 "XPath 2.0",
@@ -152,13 +148,12 @@
                 "验证 XML"
             ]
         },
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "建站手册": {
-        "course": [
+        "课程表": [
             "网站构建",
             "万维网联盟",
             "浏览器信息",
@@ -168,13 +163,12 @@
             "网站主机",
             "网络媒体"
         ],
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     },
     "参考手册": {
-        "course": [
+        "课程表": [
             "HTML",
             "CSS",
             "JavaScript",
@@ -184,9 +178,8 @@
             "PHP",
             "XML DOM"
         ],
-        "sidebar": {
-            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9",
-            "图片下载地址": "https://www.w3school.com.cn/time/20200407/sidebar.png"
+        "赞助商连接": {
+            "图片跳转链接地址": "https://datayi.cn/w/korgLGd9"
         }
     }
 }

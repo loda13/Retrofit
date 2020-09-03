@@ -111,7 +111,7 @@ def create_email():
 
     msg["to"] = Header("yuetang2")
 
-    msg["Subject"] = Header("yuetang2 test.txt", 'utf-8')
+    msg["Subject"] = Header("yuetang2 09flaskr.py.txt", 'utf-8')
     return msg
 
 

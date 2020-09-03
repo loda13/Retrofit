@@ -29,11 +29,11 @@ def list_file(client):
 
 
 def download_file(client, fileList, parentPath=""):
-    remotePath = "./ftp/test.txt"
+    remotePath = "./ftp/09flaskr.py.txt"
     localPath = "./download"
     if not os.path.exists(localPath):
         os.makedirs(localPath)
-    localDir = "%s/ftp/test.txt" % localPath
+    localDir = "%s/ftp/09flaskr.py.txt" % localPath
     fileHandler = open(localDir, "wb")
     cmd = "RETR %s" % remotePath
     print("\n\n")

@@ -38,7 +38,7 @@ class Parse:
         for eachline in cc.readlines():
             result = urlparse(eachline)
             # 解析格式
-            # ParseResult(scheme='https', netloc='www.test.com', path='/', params='',
+            # ParseResult(scheme='https', netloc='www.09flaskr.py.com', path='/', params='',
             #             query='name=%E6%9D%8E%E5%A8%9C&sex=%E5%A5%B3&age=127&phone=13485666349',
             #             fragment='')
             query = result.query.split('&')
