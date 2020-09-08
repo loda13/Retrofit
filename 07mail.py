@@ -14,7 +14,6 @@ from email.header import Header
 from email.parser import Parser
 from email.header import decode_header
 from email.utils import parseaddr
-from email.mime.multipart import MIMEMultipart
 
 
 def send_email(msg):

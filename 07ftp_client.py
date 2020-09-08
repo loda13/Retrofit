@@ -6,7 +6,7 @@
 
 import ftplib
 import os
-import random
+
 
 def connect(client):
     serverIp = "127.0.0.1"
