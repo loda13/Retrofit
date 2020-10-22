@@ -1,10 +1,13 @@
-# 使用pandas等数据处理的包，对文件（豆瓣电影）进行处理
-# 要求
-#     合并文件：异常值，缺失值
-#     进行数据统计、生成新特征、输出图形化分析结果
-#     储存分析结果
-# Author: TangYue
-
+"""
+Author: TangYue
+"""
+'''
+使用pandas等数据处理的包，对文件（豆瓣电影）进行处理
+要求
+    合并文件：异常值，缺失值
+    进行数据统计、生成新特征、输出图形化分析结果
+    储存分析结果
+'''
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns

@@ -1,7 +1,11 @@
-# 使用socket模块，建立一个聊天工具
-# 功能与qq聊天相同，有两个窗口，可以输入，可以退出
-# 要求使用面向对象编程
-# Author:TangYue
+"""
+Author: TangYue
+"""
+'''
+使用socket模块，建立一个聊天工具
+功能与qq聊天相同，有两个窗口，可以输入，可以退出
+要求使用面向对象编程
+'''
 import socket
 import sys
 

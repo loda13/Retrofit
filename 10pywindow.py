@@ -1,8 +1,11 @@
-# 使用wxPython或PyQt5创建一个窗口，实现可以实现浏览、选择本地文本文件，且可以编辑文件内容
-# 文件编码
-# 同时编辑多个文件
-# Author: TangYue
-
+"""
+Author: TangYue
+"""
+'''
+使用wxPython或PyQt5创建一个窗口，实现可以实现浏览、选择本地文本文件，且可以编辑文件内容
+文件编码
+同时编辑多个文件
+'''
 from PyQt5.QtWidgets import QFileDialog, QApplication, QTextEdit, QWidget, \
     QPushButton
 from PyQt5.QtPrintSupport import QPrinter

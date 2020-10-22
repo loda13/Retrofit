@@ -1,7 +1,12 @@
-# 多线程实现数字相减，从100减到0
-# 使用多线程
-# 使用线程锁，保证多线程运行输出结果正常
-# Author: TangYue
+"""
+Author: TangYue
+"""
+'''
+多线程实现数字相减，从100减到0
+使用多线程
+使用线程锁，保证多线程运行输出结果正常
+
+'''
 
 from concurrent.futures import ThreadPoolExecutor  # 线程池
 import time

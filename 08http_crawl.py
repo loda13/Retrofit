@@ -1,6 +1,10 @@
-# 获取https://www.w3school.com.cn/导航，以及每个导航下左边的课程表和右边的侧边栏 \
-# (包括工具栏箱和赞助商图片)，结果保存到一个json中，并格式化打印。
-# Author: TangYue
+"""
+Author: TangYue
+"""
+'''
+获取https://www.w3school.com.cn/导航，以及每个导航下左边的课程表和右边的侧边栏
+(包括工具栏箱和赞助商图片)，结果保存到一个json中，并格式化打印。
+'''
 
 import requests
 from bs4 import BeautifulSoup
